@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m worked on ...
-  - KyungHee Univ. SoftwareConvergence.
+  - KyungHee Univ. SoftwareConvergence (경희대학교 소프트웨어융합학과).
   - Zconverter Intern (22.03.14 ~ 22.06.15)
 - 🌱 I’m currently learning ...
   - Cloud Infra
