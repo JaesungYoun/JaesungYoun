@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Jaesung Youn 👋
 
 - 🔭 I’m worked on ...
   - KyungHee Univ. SoftwareConvergence (~22.08.17)
