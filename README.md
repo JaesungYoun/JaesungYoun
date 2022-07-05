@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m worked on ...
   - KyungHee Univ. SoftwareConvergence (~22.08.17)
   - Intern in Zconverter Cloud (22.03.14 ~ 22.06.15)
