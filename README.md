@@ -12,3 +12,6 @@
   - jayjoy05@naver.com
 
 
+
+
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaesungYoun&show_icons=true&theme=dark)
