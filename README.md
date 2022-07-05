@@ -1,8 +1,5 @@
 ### Hi I'm Jaesung Youn 👋
 
-![Jaesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaesungYoun&show_icons=true&theme=jolly)
-
-
 - 🔭 I’m worked on ...
   - KyungHee Univ. SoftwareConvergence (~22.08.17)
   - Intern in Zconverter Cloud (22.03.14 ~ 22.06.15)
@@ -16,4 +13,4 @@
 
 
 
-
+![Jaesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaesungYoun&show_icons=true&theme=jolly)
