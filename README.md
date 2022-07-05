@@ -14,4 +14,4 @@
 
 
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaesungYoun&show_icons=true&theme=dark)
+![Jaesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaesungYoun&show_icons=true&theme=jolly)
