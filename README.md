@@ -8,7 +8,7 @@
   - Java / Spring
   - Python
 
-- 📫 How to reach me:
+- 📫 Contact :
   - jayjoy05@naver.com
 
 
