@@ -1,7 +1,5 @@
 ### Hi I'm Jaesung Youn 👋
 
-📧 [![Naver Badge](https://img.shields.io/badge/Naver-O3C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:jayjoy05@naver.com)
-
 
 ## Experience
   - 🎓 KyungHee Univ. SoftwareConvergence (~22.08.17)
@@ -17,4 +15,8 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jayjoy05)](https://solved.ac/jayjoy05)
+
+## 📫 Contact
+
+[![Naver Badge](https://img.shields.io/badge/Naver-O3C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:jayjoy05@naver.com)
 
