@@ -14,5 +14,5 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jayjoy05})](https://solved.ac/{jayjoy05})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jayjoy05)](https://solved.ac/jayjoy05)
 
