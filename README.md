@@ -13,5 +13,4 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=JaesungYoun&show_icons=true&theme=jolly">    
 
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jayjoy05">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
