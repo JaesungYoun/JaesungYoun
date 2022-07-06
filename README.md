@@ -2,7 +2,7 @@
 
 
 ### Experience
-  - 🎓 KyungHee Univ. SoftwareConvergence (~22.08.17)
+  - 🎓 KyungHee Univ. Software Convergence (~22.08.17)
   - 💻 Intern in Zconverter Cloud (22.03.14 ~ 22.06.15)    
   
 ### 🌱 Skills
