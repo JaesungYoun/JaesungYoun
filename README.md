@@ -1,5 +1,8 @@
 ### Hi I'm Jaesung Youn 👋
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jayjoy05@naver.com)
+
+📧 [![Naver Badge](https://img.shields.io/badge/Naver-D14836?style=flat&logo=Naver&logoColor=white)](mailto:jayjoy05@naver.com)
+
+
 ## Experience
   - 🎓 KyungHee Univ. SoftwareConvergence (~22.08.17)
   - Intern in Zconverter Cloud (22.03.14 ~ 22.06.15)    
