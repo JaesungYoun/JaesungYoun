@@ -10,7 +10,7 @@
   - Python
 
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=JaesungYoun&show_icons=true&theme=jolly">    
+<src="https://github-readme-stats.vercel.app/api?username=JaesungYoun&show_icons=true&theme=jolly">    
 
 
 [![Solved.ac
