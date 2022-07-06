@@ -11,8 +11,6 @@
 
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=JaesungYoun&show_icons=true&theme=jolly">    
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jayjoy05)](https://solved.ac/jayjoy05)
 
