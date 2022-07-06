@@ -1,6 +1,6 @@
 ### Hi I'm Jaesung Youn 👋
 
-📧 [![Naver Badge](https://img.shields.io/badge/Naver-D14836?style=flat&logo=Naver&logoColor=white)](mailto:jayjoy05@naver.com)
+📧 [![Naver Badge](https://img.shields.io/badge/Naver-O3C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:jayjoy05@naver.com)
 
 
 ## Experience
