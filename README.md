@@ -15,10 +15,7 @@
 
 [![Naver Badge](https://img.shields.io/badge/Naver-O3C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:jayjoy05@naver.com)
 
-
-***
-
-[![Jaesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaesungYoun)](https://github.com/anuraghazra/github-readme-stats)
+*** 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jayjoy05)](https://solved.ac/jayjoy05)
