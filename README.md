@@ -18,7 +18,7 @@
 
 ***
 
-![jaesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaesungYoun&show_icons=true&theme=dracula)
+[![Jaesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaesungYoun)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jayjoy05)](https://solved.ac/jayjoy05)
